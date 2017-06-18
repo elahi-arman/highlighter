@@ -1,0 +1,11 @@
+{
+  "name": "Highlight",
+  "description": "Add a highlight option to any webpage.",
+  "background":{
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+  "permissions": ["contextMenus", "activeTab"],
+  "version": "1.0",
+  "manifest_version": 2
+}
